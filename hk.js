@@ -4,8 +4,8 @@ const codeObj = require('./codes');
 const { del } = require("request");
 
 const loginLink = 'https://www.hackerrank.com/auth/login';
-const email = 'apexigamer73@gmail.com';
-const password = 'mokshsharma123';
+const email = 'abc@gmail.com';
+const password = '123';
 
 
 
