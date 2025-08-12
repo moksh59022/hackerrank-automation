@@ -53,7 +53,6 @@ HRAutomation/
 
 3. **Add credentials**
    - Open `hk.js` and replace the `email` and `password` variables with your HackerRank credentials.
-   - **Note:** Avoid committing credentials to GitHub — ideally use environment variables with `dotenv`.
 
 ---
 
@@ -71,4 +70,5 @@ The script will:
 4. Select the first challenge and submit the stored solution.
 
 ---
+
 
